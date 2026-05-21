@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryann! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network and system Administrator</a>
+<h1>Hi, I'm Ryann! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Network and system Administrator</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
