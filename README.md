@@ -1,4 +1,4 @@
-# <h1><img src="<img width="2505" height="2326" alt="picture" src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif />
+# <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif />
 " width="30px"> Salut, moi c'est Ryann !</h1>
 
 <p align="left">
