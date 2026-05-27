@@ -1,55 +1,63 @@
 # <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Salut, moi c'est Ryann !</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TON_LIEN_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ryannad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ton.email@example.com">
+  <a href="mailto:ryannadrianno@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-> **Administrateur Réseaux et Systèmes** en quête d'optimisation, de sécurité et d'automatisation. Passionné par l'infrastructure et le déploiement.
+> **Administrateur Réseaux et Systèmes** diplômé en Informatique et Télécommunications. Passionné par la conception, la sécurisation et l'automatisation des infrastructures réseaux.
 
 ---
 
-## 🛠️ Compétences & Outils (Skills & Tools)
+## 🛠️ Compétences Techniques (Technical Skills)
 
-### Systèmes & Automatisation
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a>
-</p>
+### 🌐 Ingénierie Réseau & Sécurité
+* **Routage & Commutation :** Configuration Cisco IOS, Inter-VLAN routing, STP, EtherChannel, Trunking, VLSM.
+* **Sécurité & VPN :** VPN IPsec, Tunnels GRE, Firewalls (pfSense), durcissement d'équipements (SSH, VLAN de management).
+* **Réseau Physique :** Confection et déploiement de câblage RJ45 (mâle/femelle).
 
-### Réseaux & Protocoles
-* 🌐 **Routing & Switching :** Cisco IOS, VLANs, STP, EtherChannel.
-* 🛡️ **Sécurité & IP :** IPv4 / IPv6 Subnetting, ACLs, VPN.
-* 📊 **Supervision :** Wireshark, Nagios / Zabbix (à ajuster selon tes outils).
+### 🖥️ Administration Systèmes & Virtualisation
+* **Systèmes :** Linux (Ubuntu, Debian), Windows Server (Active Directory, OU, GPO), Clonezilla.
+* **Outils & Simulation :** GNS3, Cisco Packet Tracer, VMware, VirtualBox, GitHub.
+
+### 🐍 Programmation & Automatisation
+* **Langages :** Python
 
 ---
 
-## 🚀 Projets Réseaux & Systèmes (Network Projects)
+## 🛠️ Langues & Soft Skills
+* 🇫🇷 **Français :** Courant
+* 🇬🇧 **Anglais :** Courant (Niveau C2 certifié - ITTI)
+* 🇲🇬 **Malagasy :** Natif
 
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| **[Nom de ton projet 1](./lien-vers-le-repo)** | Architecture réseau sécurisée avec routage inter-VLAN et redondance STP. | Cisco, VLAN, STP |
-| **[Scripts d'Automatisation](./lien-vers-le-repo)** | Scripts Python pour la sauvegarde automatique de configurations de switchs. | Python, Netmiko |
+---
+
+## 🚀 Projets Réseaux & Systèmes (Featured Projects)
+
+### 🏗️ [Architecture PME - Collapsed Core](https://github.com/ryann-netadmin/cisco-collapsed-core-vism-network)
+* **Description :** Conception et sécurisation complète d'une topologie réseau d'entreprise sur Cisco Packet Tracer.
+* **Détails :** Implémentation du routage inter-VLAN, serveurs DHCP centralisés et isolation stricte (VLAN 99/100) pour sécuriser le management.
+* **Technos :** Cisco IOS, VLSM, Multi-VLANs, Security Hardening.
+
+### 🔒 [VPN Intranet Site-à-Site & Services Collaboratifs](https://lnkd.in/ezh3gYyS)
+* **Description :** Mise en place d'un tunnel sécurisé interconnectant des infrastructures virtuelles.
+* **Détails :** Déploiement d'un VPN IPsec sur GNS3 et intégration de serveurs applicatifs (Téléphonie Asterisk, partage Samba, streaming VLC) sur Ubuntu.
+* **Technos :** GNS3, Routeurs Cisco, IPsec, Ubuntu, Asterisk, VMware.
+
+### 🌐 [Interconnexion Réseau Hybride](https://github.com/ryann-netadmin/Projet_Reseau_Hybride)
+* **Description :** Réalisation d'une topologie réseau interconnectant deux sites géographiques distincts.
+* **Détails :** Configuration d'un routage hybride combinant *Router-on-a-stick* et Switch de Niveau 3 (L3), avec gestion des services DNS, HTTP et DHCP.
+* **Technos :** Cisco Packet Tracer, Switch L3, Services Web/DNS.
 
 ---
 
 ## 📜 Certifications
 
-* 🎓 **[Nom de la Certification]** – Émetteur (ex: Cisco, LPI) | *2026*
-* 🎓 **[Autre Certif ou Diplôme]** – École / Organisme | *En cours*
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical" alt="Stats de Ryann" />
-</p>
+* 🎓 **Cisco CCNA :** Introduction to Networks & Switching, Routing, and Wireless Essentials
+* 🎓 **Orange Digital Center :** Configuration, dépannage & sécurité réseau avancée
+* 🎓 **Udemy :** Maîtriser Windows Serveur : les fondamentaux
+* 🎓 **ITTI :** English Level C
