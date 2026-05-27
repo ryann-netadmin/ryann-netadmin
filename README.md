@@ -31,7 +31,7 @@
 
 ## 🛠️ Langues & Soft Skills
 * 🇫🇷 **Français :** Courant
-* 🇬🇧 **Anglais :** Courant (Niveau C2 certifié - ITTI)
+* 🇺🇸 **Anglais :** Courant (Niveau C2 certifié - ITTI)
 * 🇲🇬 **Malagasy :** Natif
 
 ---
