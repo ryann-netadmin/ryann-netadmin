@@ -57,7 +57,8 @@
 
 ## 📜 Certifications
 
-* 🎓 **Cisco CCNA :** Introduction to Networks & Switching, Routing, and Wireless Essentials
-* 🎓 **Orange Digital Center :** Configuration, dépannage & sécurité réseau avancée
-* 🎓 **Udemy :** Maîtriser Windows Serveur : les fondamentaux
-* 🎓 **ITTI :** English Level C
+* 🎓 **[Cisco CCNA : Introduction to Networks](./Certifications/ccna_intro.pdf)** | 2026
+* 🎓 **[Cisco CCNA : Switching, Routing, and Wireless Essentials](./Certifications/ccna_switching.pdf)** | 2026 *(En cours)*
+* 🎓 **[ITTI : English Level C2](./Certifications/itti_c2.pdf)** | 2026
+* 🎓 **[Orange Digital Center : Configuration, dépannage & sécurité réseau avancée](./Certifications/odc_2025.pdf)** | 2025
+* 🎓 **[Udemy : Maîtriser Windows Serveur : les fondamentaux](./Certifications/udemy_windows.pdf)** | 2025
