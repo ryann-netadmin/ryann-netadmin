@@ -1,5 +1,4 @@
-# <h1><img src="![Uploading picture.jpg…]()
-" width="30px"> Salut, moi c'est Ryann !</h1>
+# <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Salut, moi c'est Ryann !</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryannad/" target="_blank">
