@@ -62,4 +62,4 @@
 * 🎓 **[ITTI : English Level C2](./Certifications/itti_c2.pdf)** | 2026
 * 🎓 **[Orange Digital Center : Configuration, dépannage & sécurité réseau avancée](./Certifications/ODC_certificate_ryann.jpeg)** | 2025
 * 🎓 **[Udemy : Maîtriser Windows Serveur : les fondamentaux](./Certifications/Certification_win-serv_ryann.pdf)** | 2025
-* 🎓 **[Cisco : Networking Basics](./Certifications/)** | 2025
+* 🎓 **[Cisco : Networking Basics](./Certifications/Networking_Basics_certificate_ryann.pdf)** | 2025
