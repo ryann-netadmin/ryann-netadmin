@@ -58,7 +58,7 @@
 ## 📜 Certifications
 
 * 🎓 **[Cisco CCNA : Introduction to Networks](./Certifications/CCNA_Introduction_to_Networks_Ryann.pdf)** | 2026
-* 🎓 **[Cisco CCNA : Switching, Routing, and Wireless Essentials](./Certifications/ccna_switching.pdf)** | 2026 *(En cours)*
+* 🎓 **[Cisco CCNA : Switching, Routing, and Wireless Essentials](./Certifications/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate.pdf)** | 2026
 * 🎓 **[ITTI : English Level C2](./Certifications/itti_c2.pdf)** | 2026
 * 🎓 **[Orange Digital Center : Configuration, dépannage & sécurité réseau avancée](./Certifications/ODC_certificate_ryann.jpeg)** | 2025
 * 🎓 **[Udemy : Maîtriser Windows Serveur : les fondamentaux](./Certifications/Certification_win-serv_ryann.pdf)** | 2025
