@@ -38,6 +38,14 @@
 
 ## 🚀 Projets Réseaux & Systèmes (Featured Projects)
 
+### 🌐 [Architecture LAN/WAN & Sécurité Cisco](https://github.com/ryann-netadmin/cisco-collapsed-core-vism-network)
+
+* **Description :** Conception, routage et sécurisation complète d'une infrastructure réseau d'entreprise redondante avec accès WAN.
+
+* **Détails :** Routage inter-VLAN (Switch L3), routage statique FAI, agrégation EtherChannel LACP, DHCP centralisé et Wi-Fi WPA2-AES sécurisé (Staff/Guest).
+
+* **Technos :** Cisco IOS, EtherChannel, Port-Security (Sticky), BPDU Guard, SSHv2.
+
 ### 🏗️ [Architecture PME - Collapsed Core](https://github.com/ryann-netadmin/cisco-collapsed-core-vism-network)
 * **Description :** Conception et sécurisation complète d'une topologie réseau d'entreprise sur Cisco Packet Tracer.
 * **Détails :** Implémentation du routage inter-VLAN, serveurs DHCP centralisés et isolation stricte (VLAN 99/100) pour sécuriser le management.
