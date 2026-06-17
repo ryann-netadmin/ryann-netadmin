@@ -38,7 +38,7 @@
 
 ## 🚀 Projets Réseaux & Systèmes (Featured Projects)
 
-### 🌐 [Architecture LAN/WAN & Sécurité Cisco](https://github.com/ryann-netadmin/cisco-collapsed-core-vism-network)
+### 🌐 [Enterprise-network-architecture](https://github.com/ryann-netadmin/cisco-enterprise-network-architecture)
 
 * **Description :** Conception, routage et sécurisation complète d'une infrastructure réseau d'entreprise redondante avec accès WAN.
 
