@@ -39,11 +39,8 @@
 ## 🚀 Projets Réseaux & Systèmes (Featured Projects)
 
 ### 🌐 [Enterprise-network-architecture](https://github.com/ryann-netadmin/cisco-enterprise-network-architecture)
-
 * **Description :** Conception, routage et sécurisation complète d'une infrastructure réseau d'entreprise redondante avec accès WAN.
-
 * **Détails :** Routage inter-VLAN (Switch L3), routage statique FAI, agrégation EtherChannel LACP, DHCP centralisé et Wi-Fi WPA2-AES sécurisé (Staff/Guest).
-
 * **Technos :** Cisco IOS, EtherChannel, Port-Security (Sticky), BPDU Guard, SSHv2.
 
 ### 🏗️ [Architecture PME - Collapsed Core](https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network)
