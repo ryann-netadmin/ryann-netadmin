@@ -16,7 +16,7 @@
 ## 🛠️ Compétences Techniques (Technical Skills)
 
 ### 🌐 Ingénierie Réseau & Sécurité
-* **Routage & Commutation :** Configuration Cisco IOS, Inter-VLAN routing, STP, EtherChannel, Trunking, VLSM.
+* **Routage & Commutation :** Configuration Cisco IOS, Inter-VLAN routing, STP, EtherChannel, Trunking, VLSM, routage Statique & Dynamique.
 * **Sécurité & VPN :** VPN IPsec, Tunnels GRE, Firewalls (pfSense), durcissement d'équipements (SSH, VLAN de management).
 * **Réseau Physique :** Confection et déploiement de câblage RJ45 (mâle/femelle).
 
