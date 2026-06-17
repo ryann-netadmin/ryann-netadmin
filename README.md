@@ -46,7 +46,7 @@
 
 * **Technos :** Cisco IOS, EtherChannel, Port-Security (Sticky), BPDU Guard, SSHv2.
 
-### 🏗️ [Architecture PME - Collapsed Core](https://github.com/ryann-netadmin/cisco-collapsed-core-vism-network)
+### 🏗️ [Architecture PME - Collapsed Core](https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network)
 * **Description :** Conception et sécurisation complète d'une topologie réseau d'entreprise sur Cisco Packet Tracer.
 * **Détails :** Implémentation du routage inter-VLAN, serveurs DHCP centralisés et isolation stricte (VLAN 99/100) pour sécuriser le management.
 * **Technos :** Cisco IOS, VLSM, Multi-VLANs, Security Hardening.
