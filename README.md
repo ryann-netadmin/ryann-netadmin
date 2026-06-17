@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> **Administrateur Réseaux et Systèmes** diplômé en Informatique et Télécommunications. Passionné par la conception, la sécurisation et l'automatisation des infrastructures réseaux.
+> **Technicien Réseaux et Systèmes** diplômé en Informatique et Télécommunications. Passionné par la conception, la sécurisation et l'automatisation des infrastructures réseaux.
 
 ---
 
