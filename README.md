@@ -26,8 +26,7 @@
 * **Virtualisation & Conteneurs :** VMware, VirtualBox, déploiement Docker & Docker Compose.
 * **Maintenance :** Télémaintenance (TeamViewer), clonage et déploiement système (Clonezilla).
 
-### 🐍 Programmation, Automatisation & Outils
-* **Langages :** Python.
+### 🐍 Automatisation & Outils
 * **Outils & Simulation :** GNS3, Cisco Packet Tracer, gestion de version (GitHub).
 
 ---
