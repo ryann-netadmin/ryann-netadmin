@@ -39,6 +39,10 @@
 ---
 
 ## 🚀 Projets Réseaux & Systèmes (Featured Projects)
+### ⚙️ [Infrastructure Système & Support ITIL](https://github.com/ryann-netadmin/system-administration-support-infrastructure)
+* **Description :** Déploiement d'un environnement d'entreprise virtualisé et automatisé pour la gestion des ressources IT.
+* **Détails :** Mise en place d'un contrôleur de domaine Windows (AD/DNS/DHCP), supervision proactive avec Zabbix, et gestion de parc/ticketing via une architecture GLPI conteneurisée (Docker).
+* **Technos :** Windows Server (GPO/AD), Linux, Docker & Docker Compose, Zabbix, GLPI (ITIL), TeamViewer.
 
 ### 🌐 [Enterprise-network-architecture](https://github.com/ryann-netadmin/cisco-enterprise-network-architecture)
 * **Description :** Conception, routage et sécurisation complète d'une infrastructure réseau d'entreprise redondante avec accès WAN.
