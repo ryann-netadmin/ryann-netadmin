@@ -13,19 +13,22 @@
 
 ---
 
-## 🛠️ Compétences Techniques (Technical Skills)
+## 🛠️ Compétences Techniques
 
 ### 🌐 Ingénierie Réseau & Sécurité
-* **Routage & Commutation :** Configuration Cisco IOS, Inter-VLAN routing, STP, EtherChannel, Trunking, VLSM, routage Statique & Dynamique.
-* **Sécurité & VPN :** VPN IPsec, Tunnels GRE, Firewalls (pfSense), durcissement d'équipements (SSH, VLAN de management).
-* **Réseau Physique :** Confection et déploiement de câblage RJ45 (mâle/femelle).
+* **Routage & Commutation :** Configuration Cisco IOS, Inter-VLAN routing, STP, EtherChannel (LACP), Trunking, VLSM, routage Statique & Dynamique.
+* **Sécurité & VPN :** VPN IPsec, Tunnels GRE, Firewalls (pfSense), durcissement (Port-Security, BPDU Guard, SSHv2, VLAN de management).
+* **Réseau Physique :** Confection et déploiement de câblage structuré RJ45.
 
-### 🖥️ Administration Systèmes & Virtualisation
-* **Systèmes :** Linux (Ubuntu, Debian), Windows Server (Active Directory, OU, GPO), Clonezilla.
-* **Outils & Simulation :** GNS3, Cisco Packet Tracer, VMware, VirtualBox, GitHub.
+### 🖥️ Administration Systèmes & Support IT
+* **Systèmes :** Linux (Ubuntu, Debian), Windows Server (Active Directory, DNS, DHCP, GPO).
+* **Supervision & Ticketing :** Monitoring proactif (Zabbix), gestion de parc et workflow de support (GLPI, méthodologie ITIL).
+* **Virtualisation & Conteneurs :** VMware, VirtualBox, déploiement Docker & Docker Compose.
+* **Maintenance :** Télémaintenance (TeamViewer), clonage et déploiement système (Clonezilla).
 
-### 🐍 Programmation & Automatisation
-* **Langages :** Python
+### 🐍 Programmation, Automatisation & Outils
+* **Langages :** Python.
+* **Outils & Simulation :** GNS3, Cisco Packet Tracer, gestion de version (GitHub).
 
 ---
 
